@@ -13,5 +13,7 @@ For TrafficControl, we used a python3.7 but it is not required.
 For Snake, a python3.9 environment is *required*.
 
 Link to Aurora repo - https://github.com/ophircarmel/PCC-RL-GRAPHING
+
 Link to Traffic Control repo - https://github.com/ophircarmel/TrafficControl
+
 Link to Snake repo - https://github.com/ophircarmel/snake-rl
